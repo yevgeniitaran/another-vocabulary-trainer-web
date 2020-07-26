@@ -1,10 +1,10 @@
 import React from 'react';
-import Container from "./components/Container";
+import Vocabulary from "./components/Vocabulary";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-      <Container/>
+      <Vocabulary/>
   );
 }
 
